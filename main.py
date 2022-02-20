@@ -6,4 +6,3 @@ while i<z:
     summ = summ +1
     i = i*i
     i = i+1
-print(summ)
